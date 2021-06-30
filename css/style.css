@@ -19,7 +19,7 @@
 	border: 1px solid white;
 }
 
-body > div > section > div:nth-child(7) > div:nth-child(1) {
+body > div > #primo-blocco > div:nth-child(7) > div:nth-child(1) {
 	padding: 10px;
 }
 
