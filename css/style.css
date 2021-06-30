@@ -9,7 +9,17 @@
 	line-height: 50px;
 	color: white;
 	text-align: center;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
 }
+
+/* .row > div > div {
+   background-color: #00e165;
+   border: 1px solid white;
+   height: 80%;
+   text-align: center;
+} */
 
 .debug .container {
 	background-color: lightgrey;
