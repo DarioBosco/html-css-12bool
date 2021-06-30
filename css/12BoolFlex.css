@@ -55,6 +55,14 @@
 .flex-bottom {
 	align-items: flex-end;
 }
+
+.justify-space-around {
+	justify-content: space-around;
+}
+
+.justify-space-between {
+	justify-content: space-between;
+}
 /* Fine sezione Bonus */
 
 /* Media Query - Mobile Devices */
