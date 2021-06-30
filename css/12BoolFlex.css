@@ -30,6 +30,33 @@
 	flex-grow: 1;
 }
 
+/* Sezione Bonus */
+
+.flex-start {
+	justify-content: flex-start;
+}
+
+.flex-center {
+	justify-content: center;
+}
+
+.flex-end {
+	justify-content: flex-end;
+}
+
+.flex-top {
+	align-items: flex-start;
+}
+
+.flex-middle {
+	align-items: center;
+}
+
+.flex-bottom {
+	align-items: flex-end;
+}
+/* Fine sezione Bonus */
+
 /* Media Query - Mobile Devices */
 @media screen and (max-width: 575px) {
 	.container {
