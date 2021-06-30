@@ -1,0 +1,16 @@
+.row {
+	height: 50px;
+}
+
+.row > div {
+	background-color: #006cfa;
+	border: 1px solid white;
+	height: 100%;
+	line-height: 50px;
+	color: white;
+	text-align: center;
+}
+
+.debug .container {
+	background-color: lightgrey;
+}
