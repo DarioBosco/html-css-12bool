@@ -1,28 +1,14 @@
-.row {
-	height: 50px;
-}
-
-.row > div {
+.content,
+.content-nested {
 	background-color: #006cfa;
 	border: 1px solid white;
-	height: 50px;
+	min-height: 50px;
 	line-height: 50px;
 	color: white;
 	text-align: center;
-	display: flex;
-	justify-content: space-around;
-	align-items: center;
-}
-
-.row > div > div {
-	background-color: #00e165;
-	border: 1px solid white;
-}
-
-body > div > #primo-blocco > div:nth-child(7) > div:nth-child(1) {
 	padding: 10px;
 }
 
-.debug .container {
-	background-color: lightgrey;
+section {
+	margin-bottom: 10px;
 }
